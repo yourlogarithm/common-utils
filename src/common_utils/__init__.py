@@ -1,5 +1,4 @@
 import logging
-import logger
 from typing import Callable
 
 from retry_async import retry
